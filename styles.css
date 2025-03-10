@@ -5,11 +5,15 @@ body{
     background-color:#eafcfb;
     color: black;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: right;
+    text-align: left;
 }
 .title h1{
-    text-align: right;
+    text-align: left;
 }
 img {
     min-width: 50vw;
+}
+
+.info{
+    text-align: right;
 }
